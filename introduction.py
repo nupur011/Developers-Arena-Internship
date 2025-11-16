@@ -1,0 +1,6 @@
+name=input("Enter your name: ")
+age=input("Enter your age: ")
+hobby=input("Enter your hobby: ")
+print("Welcome my friend ",name,"!!")
+print("Your age is",age)
+print("Your hobby is",hobby)
